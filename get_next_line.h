@@ -26,7 +26,7 @@
 
 char	*get_next_line(int fd);
 void	change_line(char	*buf, char	**line);
-int		ft_strlen(char *s);
+int   ft_strlen(char *s);
 char	*ft_strncpy(char *dst, char *src, int dstsize);
 char	*ft_strjoin(char *s1, char *s2);
 char	*ft_strchr(char *s, int c);
